@@ -1,0 +1,367 @@
+,city,state_id,population,usa
+0,mirabel,QC,50513.0,0
+1,belleville,ON,50716.0,0
+2,north bay,ON,51553.0,0
+3,welland,ON,52293.0,0
+4,saint-hyacinthe,QC,55648.0,0
+5,blainville,QC,56863.0,0
+6,fredericton,NB,58220.0,0
+7,port coquitlam,BC,58612.0,0
+8,halton hills,ON,61161.0,0
+9,airdrie,AB,61581.0,0
+10,grande prairie,AB,63166.0,0
+11,medicine hat,AB,63260.0,0
+12,norfolk county,ON,64044.0,0
+13,st. albert,AB,65589.0,0
+14,granby,QC,66222.0,0
+15,caledon,ON,66502.0,0
+16,saint john,NB,67575.0,0
+17,new westminster,BC,70996.0,0
+18,wood buffalo,AB,71589.0,0
+19,sarnia,ON,71594.0,0
+20,moncton,NB,71889.0,0
+21,sault ste. marie,ON,73368.0,0
+22,prince george,BC,74003.0,0
+23,saint-jérôme,QC,74346.0,0
+24,kawartha lakes,ON,75423.0,0
+25,drummondville,QC,75423.0,0
+26,peterborough,ON,81032.0,0
+27,maple ridge,BC,82256.0,0
+28,chilliwack,BC,83788.0,0
+29,newmarket,ON,84224.0,0
+30,repentigny,QC,84285.0,0
+31,brossard,QC,85721.0,0
+32,victoria,BC,85792.0,0
+33,north vancouver,BC,85935.0,0
+34,niagara falls,ON,88071.0,0
+35,kamloops,BC,90280.0,0
+36,nanaimo,BC,90504.0,0
+37,pickering,ON,91771.0,0
+38,clarington,ON,92013.0,0
+39,lethbridge,AB,92729.0,0
+40,cape breton,NS,94285.0,0
+41,saint-jean-sur-richelieu,QC,95114.0,0
+42,brantford,ON,97496.0,0
+43,strathcona county,AB,98044.0,0
+44,red deer,AB,100418.0,0
+45,chatham-kent,ON,101647.0,0
+46,delta,BC,102238.0,0
+47,waterloo,ON,104986.0,0
+48,thunder bay,ON,107909.0,0
+49,st. john's,NL,108860.0,0
+50,milton,ON,110128.0,0
+51,terrebonne,QC,111575.0,0
+52,saanich,BC,114148.0,0
+53,langley,BC,117285.0,0
+54,ajax,ON,119677.0,0
+55,kingston,ON,123798.0,0
+56,kelowna,BC,127380.0,0
+57,whitby,ON,128377.0,0
+58,cambridge,ON,129920.0,0
+59,guelph,ON,131794.0,0
+60,st. catharines,ON,133113.0,0
+61,trois-rivières,QC,134413.0,0
+62,coquitlam,BC,139284.0,0
+63,abbotsford,BC,141397.0,0
+64,barrie,ON,141434.0,0
+65,lévis,QC,143414.0,0
+66,saguenay,QC,145949.0,0
+67,escondido,CA,151613.0,1
+68,hollywood,FL,151998.0,1
+69,frederick,MD,152047.0,1
+70,binghamton,NY,152392.0,1
+71,pomona,CA,152494.0,1
+72,sunnyvale,CA,152771.0,1
+73,tuscaloosa,AL,153060.0,1
+74,lake charles,LA,153097.0,1
+75,pasadena,TX,153351.0,1
+76,lakewood,CO,154393.0,1
+77,champaign,IL,155368.0,1
+78,alexandria,VA,155810.0,1
+79,palmdale,CA,157356.0,1
+80,port arthur,TX,157732.0,1
+81,hayward,CA,158937.0,1
+82,oshawa,ON,159458.0,0
+83,manchester,NH,159744.0,1
+84,muskegon,MI,161058.0,1
+85,sherbrooke,QC,161323.0,0
+86,greater sudbury,ON,161531.0,0
+87,murfreesboro,TN,161634.0,1
+88,cary,NC,162320.0,1
+89,marysville,WA,163547.0,1
+90,frisco,TX,163656.0,1
+91,fredericksburg,VA,164610.0,1
+92,ocala,FL,165111.0,1
+93,corona,CA,166785.0,1
+94,medford,OR,167922.0,1
+95,pembroke pines,FL,168587.0,1
+96,elk grove,CA,169743.0,1
+97,nampa,ID,169761.0,1
+98,vallejo,CA,172697.0,1
+99,ontario,CA,173212.0,1
+100,garden grove,CA,174858.0,1
+101,hemet,CA,175066.0,1
+102,oceanside,CA,175464.0,1
+103,santa cruz,CA,176037.0,1
+104,rancho cucamonga,CA,176534.0,1
+105,danbury,CT,176649.0,1
+106,high point,NC,177412.0,1
+107,sioux falls,SD,177629.0,1
+108,gastonia,NC,178477.0,1
+109,fort lauderdale,FL,178752.0,1
+110,clarksville,TN,179367.0,1
+111,lorain,OH,179926.0,1
+112,newport news,VA,181825.0,1
+113,tempe,AZ,182498.0,1
+114,burlington,ON,183314.0,0
+115,cedar rapids,IA,184610.0,1
+116,spartanburg,SC,185031.0,1
+117,waco,TX,185680.0,1
+118,hagerstown,MD,186377.0,1
+119,overland park,KS,188966.0,1
+120,north port,FL,190003.0,1
+121,erie,PA,190443.0,1
+122,grand prairie,TX,190682.0,1
+123,waterbury,CT,190855.0,1
+124,deltona,FL,192730.0,1
+125,salinas,CA,193126.0,1
+126,oakville,ON,193832.0,0
+127,olympia,WA,194532.0,1
+128,richmond hill,ON,195022.0,0
+129,huntington,WV,198419.0,1
+130,gainesville,FL,198702.0,1
+131,huntington beach,CA,200652.0,1
+132,yonkers,NY,200807.0,1
+133,fargo,ND,202146.0,1
+134,santa barbara,CA,203655.0,1
+135,norwich,CT,204360.0,1
+136,college station,TX,204710.0,1
+137,moreno valley,CA,205499.0,1
+138,amarillo,TX,205821.0,1
+139,green bay,WI,208670.0,1
+140,fontana,CA,209665.0,1
+141,tacoma,WA,211277.0,1
+142,avondale,AZ,214235.0,1
+143,bremerton,WA,214549.0,1
+144,kalamazoo,MI,214583.0,1
+145,regina,SK,215106.0,0
+146,hickory,NC,215120.0,1
+147,roanoke,VA,215793.0,1
+148,san bernardino,CA,216239.0,1
+149,windsor,ON,217188.0,0
+150,thousand oaks,CA,218548.0,1
+151,appleton,WI,221379.0,1
+152,gulfport,MS,222131.0,1
+153,mckinney,TX,223422.0,1
+154,brownsville,TX,228534.0,1
+155,kennewick,WA,229624.0,1
+156,nashua,NH,230061.0,1
+157,visalia,CA,231159.0,1
+158,winter haven,FL,231412.0,1
+159,burnaby,BC,232755.0,0
+160,york,PA,232796.0,1
+161,fremont,CA,233136.0,1
+162,kitchener,ON,233222.0,0
+163,evansville,IN,233353.0,1
+164,garland,TX,234943.0,1
+165,hialeah,FL,236387.0,1
+166,gilbert,AZ,237133.0,1
+167,chesapeake,VA,237940.0,1
+168,irving,TX,238289.0,1
+169,north las vegas,NV,238702.0,1
+170,longueuil,QC,239700.0,0
+171,wilmington,NC,242770.0,1
+172,atlantic city,NJ,243285.0,1
+173,killeen,TX,243947.0,1
+174,norfolk,VA,245115.0,1
+175,glendale,AZ,245895.0,1
+176,saskatoon,SK,246376.0,0
+177,scottsdale,AZ,246645.0,1
+178,chandler,AZ,247477.0,1
+179,tallahassee,FL,252825.0,1
+180,myrtle beach,SC,256079.0,1
+181,salem,OR,256175.0,1
+182,montgomery,AL,256554.0,1
+183,anchorage,AK,256724.0,1
+184,laredo,TX,256752.0,1
+185,saint petersburg,FL,260999.0,1
+186,lubbock,TX,261076.0,1
+187,eugene,OR,263860.0,1
+188,jersey city,NJ,264152.0,1
+189,reading,PA,264736.0,1
+190,peoria,IL,265218.0,1
+191,irvine,CA,266122.0,1
+192,santa clarita,CA,266958.0,1
+193,chula vista,CA,267172.0,1
+194,lafayette,LA,267376.0,1
+195,canton,OH,272768.0,1
+196,gatineau,QC,276245.0,0
+197,south bend,IN,279698.0,1
+198,savannah,GA,280692.0,1
+199,lincoln,NE,280741.0,1
+200,newark,NJ,281764.0,1
+201,plano,TX,286057.0,1
+202,round lake beach,IL,286350.0,1
+203,rockford,IL,286727.0,1
+204,lakeland,FL,286876.0,1
+205,davenport,IA,288233.0,1
+206,shreveport,LA,291749.0,1
+207,henderson,NV,292969.0,1
+208,trenton,NJ,293697.0,1
+209,asheville,NC,299892.0,1
+210,antioch,CA,300780.0,1
+211,fort collins,CO,301581.0,1
+212,saint paul,MN,302398.0,1
+213,vaughan,ON,306233.0,0
+214,huntsville,AL,307319.0,1
+215,lexington,KY,312495.0,1
+216,lansing,MI,318278.0,1
+217,santa rosa,CA,321699.0,1
+218,mobile,AL,322496.0,1
+219,ann arbor,MI,324421.0,1
+220,fort wayne,IN,326814.0,1
+221,markham,ON,328966.0,0
+222,greensboro,NC,331894.0,1
+223,santa ana,CA,334217.0,1
+224,fayetteville,AR,336152.0,1
+225,flint,MI,338616.0,1
+226,corpus christi,TX,341570.0,1
+227,jackson,MS,342607.0,1
+228,victorville,CA,346449.0,1
+229,anaheim,CA,351043.0,1
+230,pensacola,FL,352187.0,1
+231,aurora,CO,361710.0,1
+232,kissimmee,FL,365099.0,1
+233,youngstown,OH,372039.0,1
+234,modesto,CA,377755.0,1
+235,bonita springs,FL,382869.0,1
+236,london,ON,383822.0,0
+237,oxnard,CA,385837.0,1
+238,scranton,PA,387448.0,1
+239,augusta,GA,389215.0,1
+240,stockton,CA,390117.0,1
+241,poughkeepsie,NY,391552.0,1
+242,arlington,TX,392772.0,1
+243,palm coast,FL,395224.0,1
+244,durham,NC,400379.0,1
+245,spokane,WA,400936.0,1
+246,lancaster,PA,401205.0,1
+247,indio,CA,402166.0,1
+248,halifax,NS,403131.0,0
+249,chattanooga,TN,403618.0,1
+250,syracuse,NY,407208.0,1
+251,winston-salem,NC,412490.0,1
+252,oakland,CA,420005.0,1
+253,port saint lucie,FL,422966.0,1
+254,laval,QC,422993.0,0
+255,reno,NV,427007.0,1
+256,denton,TX,432200.0,1
+257,madison,WI,434967.0,1
+258,harrisburg,PA,438995.0,1
+259,little rock,AR,442554.0,1
+260,greenville,SC,462640.0,1
+261,long beach,CA,470130.0,1
+262,staten island,NY,476015.0,1
+263,murrieta,CA,476630.0,1
+264,des moines,IA,476689.0,1
+265,wichita,KS,482205.0,1
+266,palm bay,FL,483098.0,1
+267,mesa,AZ,484587.0,1
+268,toledo,OH,492237.0,1
+269,worcester,MA,495856.0,1
+270,provo,UT,501690.0,1
+271,surrey,BC,517887.0,0
+272,quebec city,QC,531902.0,0
+273,hamilton,ON,536917.0,0
+274,new haven,CT,563460.0,1
+275,akron,OH,565311.0,1
+276,bakersfield,CA,567585.0,1
+277,columbia,SC,571249.0,1
+278,ogden,UT,571457.0,1
+279,knoxville,TN,581787.0,1
+280,baton rouge,LA,589675.0,1
+281,brampton,ON,593638.0,0
+282,grand rapids,MI,595467.0,1
+283,albany,NY,596419.0,1
+284,mission viejo,CA,602851.0,1
+285,charleston,SC,613847.0,1
+286,cape coral,FL,617896.0,1
+287,colorado springs,CO,624789.0,1
+288,springfield,MA,625300.0,1
+289,vancouver,BC,631486.0,0
+290,concord,CA,649437.0,1
+291,tulsa,OK,674211.0,1
+292,allentown,PA,678169.0,1
+293,fresno,CA,690895.0,1
+294,sarasota,FL,701487.0,1
+295,winnipeg,MB,705224.0,0
+296,rochester,NY,714852.0,1
+297,dayton,OH,718772.0,1
+298,mississauga,ON,721599.0,0
+299,birmingham,AL,749299.0,1
+300,albuquerque,NM,759517.0,1
+301,omaha,NE,792463.0,1
+302,mcallen,TX,798187.0,1
+303,el paso,TX,845059.0,1
+304,fort worth,TX,854113.0,1
+305,tucson,AZ,860333.0,1
+306,hartford,CT,913587.0,1
+307,buffalo,NY,920136.0,1
+308,edmonton,AB,932546.0,0
+309,ottawa,ON,934243.0,0
+310,bridgeport,CT,934289.0,1
+311,oklahoma city,OK,948154.0,1
+312,nyc,NY,1000000.0,1
+313,louisville,KY,1003412.0,1
+314,raleigh,NC,1005457.0,1
+315,new orleans,LA,1024421.0,1
+316,richmond,VA,1041877.0,1
+317,salt lake city,UT,1061156.0,1
+318,nashville,TN,1065078.0,1
+319,memphis,TN,1069661.0,1
+320,jacksonville,FL,1141459.0,1
+321,providence,RI,1198789.0,1
+322,calgary,AB,1239220.0,0
+323,milwaukee,WI,1377104.0,1
+324,charlotte,NC,1438351.0,1
+325,bronx,NY,1455720.0,1
+326,virginia beach,VA,1487505.0,1
+327,columbus,OH,1495146.0,1
+328,indianapolis,IN,1550488.0,1
+329,kansas city,MO,1590762.0,1
+330,austin,TX,1633847.0,1
+331,cincinnati,OH,1634573.0,1
+332,manhattan,NY,1643734.0,1
+333,montreal,QC,1704694.0,0
+334,pittsburgh,PA,1722206.0,1
+335,cleveland,OH,1731637.0,1
+336,orlando,FL,1757288.0,1
+337,san jose,CA,1804359.0,1
+338,sacramento,CA,1830061.0,1
+339,san antonio,TX,1976787.0,1
+340,portland,OR,2027629.0,1
+341,las vegas,NV,2044731.0,1
+342,riverside,CA,2065627.0,1
+343,saint louis,MO,2096990.0,1
+344,baltimore,MD,2181206.0,1
+345,queens,NY,2333054.0,1
+346,brooklyn,NY,2629150.0,1
+347,toronto,ON,2731571.0,0
+348,denver,CO,2741534.0,1
+349,tampa,FL,2744107.0,1
+350,minneapolis,MN,2866604.0,1
+351,san diego,CA,3181172.0,1
+352,detroit,MI,3520589.0,1
+353,seattle,WA,3541236.0,1
+354,san francisco,CA,3548847.0,1
+355,phoenix,AZ,4054083.0,1
+356,boston,MA,4556916.0,1
+357,atlanta,GA,5080712.0,1
+358,washington,DC,5191844.0,1
+359,houston,TX,5424720.0,1
+360,philadelphia,PA,5591554.0,1
+361,dallas,TX,5634307.0,1
+362,miami,FL,6247425.0,1
+363,chicago,IL,8639278.0,1
+364,los angeles,CA,12740381.0,1
+365,new york,NY,19164071.0,1

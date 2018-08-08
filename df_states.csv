@@ -1,0 +1,66 @@
+,state,state_name,state_dec,state_abb
+0,AB, alberta ,None, ab 
+1,BC, british columbia , b c , bc 
+2,MB, manitoba ,None, mb 
+3,NB, new brunswick , n b , nb 
+4,NS, nova scotia , n s , ns 
+5,ON, ontario ,None, on 
+6,PE, prince edward island , p e i , pe 
+7,QC, quebec ,None, qc 
+8,SK, saskatchewan ,None, sk 
+9,AK, alaska ,None, ak 
+10,AL, alabama ,None, al 
+11,AR, arkansas ,None, ar 
+12,AZ, arizona ,None, az 
+13,CA, california ,None, ca 
+14,CO, colorado ,None, co 
+15,CT, connecticut ,None, ct 
+16,DC, district of columbia , d c , dc 
+17,DE, delaware ,None, de 
+18,FL, florida ,None, fl 
+19,GA, georgia ,None, ga 
+20,HI, hawaii ,None, hi 
+21,IA, iowa ,None, ia 
+22,ID, idaho ,None, id 
+23,IL, illinois ,None, il 
+24,IN, indiana ,None, in 
+25,KS, kansas ,None, ks 
+26,KY, kentucky ,None, ky 
+27,LA, louisiana ,None, la 
+28,MA, massachusetts ,None, ma 
+29,MD, maryland ,None, md 
+30,ME, maine ,None, me 
+31,MI, michigan ,None, mi 
+32,MN, minnesota ,None, mn 
+33,MO, missouri ,None, mo 
+34,MS, mississippi ,None, ms 
+35,MT, montana ,None, mt 
+36,NC, north carolina , n c , nc 
+37,ND, north dakota , n d , nd 
+38,NE, nebraska ,None, ne 
+39,NH, new hampshire , n h , nh 
+40,NJ, new jersey , n j , nj 
+41,NM, new mexico , n m , nm 
+42,NV, nevada ,None, nv 
+43,NY, new york , n y , ny 
+44,OH, ohio ,None, oh 
+45,OK, oklahoma ,None, ok 
+46,OR, oregon ,None, or 
+47,PA, pennsylvania ,None, pa 
+48,RI, rhode island , r i , ri 
+49,SC, south carolina , s c , sc 
+50,SD, south dakota , s d , sd 
+51,TN, tennessee ,None, tn 
+52,TX, texas ,None, tx 
+53,UT, utah ,None, ut 
+54,VA, virginia ,None, va 
+55,VT, vermont ,None, vt 
+56,WA, washington ,None, wa 
+57,WI, wisconsin ,None, wi 
+58,WV, west virginia , w v , wv 
+59,WY, wyoming ,None, wy 
+60,NL, newfoundland , n l , nl 
+61,NL, labrador , n l , nl 
+62,QC, québec ,None, qc 
+63,HI, hawai i ,None, hi 
+64,PE, prince edward island , p e i , pei 
